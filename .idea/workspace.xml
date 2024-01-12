@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b9ec3f6-b80c-4d93-90d0-8ae1ea5c63b4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VsmKgPy1yN2NKz8agqh6ghMSEq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Александр/WebstormProjects/1_PORTFOLIO/4_im",
+    "list.type.of.created.stylesheet": "SCSS",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\Александр\\WebstormProjects\\Модуль_13_Internet_Magazine_Angular\\im\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\app\shared\utils" />
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\types" />
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\app\shared\services" />
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\assets\styles" />
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\assets\images\page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\assets\images" />
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\assets\images\icons" />
+      <recent name="C:\Users\Александр\WebstormProjects\Модуль_13_Internet_Magazine_Angular\im\frontend\src\assets\styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b9ec3f6-b80c-4d93-90d0-8ae1ea5c63b4" name="Changes" comment="" />
+      <created>1695633099497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695633099497</updated>
+      <workItem from="1695633100670" duration="5238000" />
+      <workItem from="1695651528365" duration="7940000" />
+      <workItem from="1695698693479" duration="14433000" />
+      <workItem from="1695717627134" duration="900000" />
+      <workItem from="1695737988876" duration="32733000" />
+      <workItem from="1695961439262" duration="9666000" />
+      <workItem from="1695971450294" duration="12574000" />
+      <workItem from="1695996769776" duration="7961000" />
+      <workItem from="1696079583966" duration="11293000" />
+      <workItem from="1696139627980" duration="204000" />
+      <workItem from="1696140248692" duration="17734000" />
+      <workItem from="1696222726536" duration="28700000" />
+      <workItem from="1696270748771" duration="256000" />
+      <workItem from="1696306939320" duration="8650000" />
+      <workItem from="1696323572015" duration="8407000" />
+      <workItem from="1696332745410" duration="1710000" />
+      <workItem from="1696337213721" duration="8586000" />
+      <workItem from="1696397564572" duration="5317000" />
+      <workItem from="1696404039276" duration="11841000" />
+      <workItem from="1696416734122" duration="15888000" />
+      <workItem from="1696432785587" duration="560000" />
+      <workItem from="1696433375452" duration="8000" />
+      <workItem from="1696433442050" duration="831000" />
+      <workItem from="1696435178697" duration="685000" />
+      <workItem from="1696486405296" duration="1194000" />
+      <workItem from="1696527282798" duration="180000" />
+      <workItem from="1696855600210" duration="1600000" />
+      <workItem from="1696857247762" duration="14510000" />
+      <workItem from="1696925754530" duration="19103000" />
+      <workItem from="1696997293212" duration="20572000" />
+      <workItem from="1697086496820" duration="2383000" />
+      <workItem from="1697102150860" duration="1182000" />
+      <workItem from="1697210742731" duration="3250000" />
+      <workItem from="1697220239030" duration="23000" />
+      <workItem from="1697463406594" duration="2484000" />
+      <workItem from="1697466683928" duration="4484000" />
+      <workItem from="1697480706882" duration="22093000" />
+      <workItem from="1697537408655" duration="10215000" />
+      <workItem from="1697569617867" duration="11396000" />
+      <workItem from="1697657571611" duration="141000" />
+      <workItem from="1697687264212" duration="6124000" />
+      <workItem from="1697713278945" duration="3409000" />
+      <workItem from="1697975561797" duration="13551000" />
+      <workItem from="1698044175112" duration="17244000" />
+      <workItem from="1698161173516" duration="1251000" />
+      <workItem from="1698213011295" duration="3084000" />
+      <workItem from="1699455816528" duration="677000" />
+      <workItem from="1700139912247" duration="1189000" />
+      <workItem from="1700316139304" duration="595000" />
+      <workItem from="1701087470321" duration="4177000" />
+      <workItem from="1701453316906" duration="491000" />
+      <workItem from="1701882271983" duration="1286000" />
+      <workItem from="1703319826814" duration="298000" />
+      <workItem from="1704442507879" duration="6939000" />
+      <workItem from="1705085507133" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
